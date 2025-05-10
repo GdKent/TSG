@@ -1,4 +1,4 @@
-# TSG
+# A Stochastic Gradient Method for Trilavel Optimization
 
 This is the numerical implementation accompanying the paper "A Stochastic Gradient Method for Trilavel Optimization".
 
