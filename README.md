@@ -1,4 +1,4 @@
-# A Stochastic Gradient Method for Trilavel Optimization
+# A Stochastic Gradient Method for Trilevel Optimization
 
 This is the numerical implementation accompanying the paper "A Stochastic Gradient Method for Trilavel Optimization".
 
