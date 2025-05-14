@@ -4,7 +4,7 @@ This is the numerical implementation accompanying the paper "A Stochastic Gradie
 
 ## 1. Software Requirements
 
-The code was implemented in Python 3.9 and requires the following libraries:
+The code was implemented in Python 3.10 and requires the following libraries:
 
 - numpy
 - torch
