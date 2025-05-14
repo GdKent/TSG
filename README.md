@@ -25,9 +25,9 @@ The code was implemented in Python 3.9 and requires the following libraries:
 
 The .py files can be broken up into three categories: "solver", "driver", and "functions".
 
-"Solver" file: This file contains all of the code for the implementations of the trilevel algorithms.
-"Driver" file: This file contains all of the code for running the specific experiments to generate all of the plots that are displayed in the paper.
-"Functions" file: This file contains all the the code that defines the different types of problems that were tested.
+- "Solver" file: This file contains all of the code for the implementations of the trilevel algorithms.
+- "Driver" file: This file contains all of the code for running the specific experiments to generate all of the plots that are displayed in the paper.
+- "Functions" file: This file contains all the the code that defines the different types of problems that were tested.
 
 
 ## In case you cite our work, please refer to the paper:
